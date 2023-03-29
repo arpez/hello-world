@@ -15,6 +15,9 @@
         <li><a href="#">Shop</a></li>
 	<button type="button">Click Me!</button>
         <li><a href="#">About Us</a></li>
+	<button type="button">Click Me!</button>
+	<button type="button">Click Me!</button>
+
         <li><a href="#">Contact Us</a></li>
       </ul>
     </nav>
