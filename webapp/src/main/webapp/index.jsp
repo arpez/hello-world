@@ -42,7 +42,9 @@
         </div>
       </div>
     </section>
-    
+   
+    <br>
+
     <section>
       <h2>About Us</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel justo ac quam finibus facilisis. Morbi ut sem eget velit suscipit euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed non sapien in turpis auctor mollis. Donec eu enim odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
