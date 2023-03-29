@@ -34,6 +34,15 @@
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
           <a href="#">Buy Now</a>
         </div>
+	 </div>
+        <div class="product">
+          <img src="product2.jpg" alt="Product 7">
+          <h3>Product 2</h3>
+          <p>Ce produit cest la patte des pattes mortuaire et la maggie.</p>
+          <a href="#">Buy Now</a>
+        </div>
+
+
         <div class="product">
           <img src="product3.jpg" alt="Product 3">
           <h3>Product 3</h3>
