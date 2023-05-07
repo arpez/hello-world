@@ -9,7 +9,7 @@ Registration Page
 <br>  
 <form>  
   
-<label> Firstname & Last name </label>         
+<label> Firstname & Last Name </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
@@ -36,7 +36,8 @@ Course :
 Gender :  
 </label><br>  
 <input type="radio" name="male"/> Male <br>  
-<input type="radio" name="female"/> Female <br>  
+<input type="radio" name="female"/> Female <br>
+<input type="radio" name="male"/> Non binary <br>
 <input type="radio" name="other"/> Other  
 <br>  
 <br>  
